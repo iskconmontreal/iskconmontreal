@@ -9,6 +9,8 @@
 * Animation board (UX: vraj vilas mela, festival etc - to show in plasma) 
 * Daily quote (UX: daily visits)
 * Books store (UX: buy books)
+* Service list (UX: anyone who comes for seva)
+* Donations list (UX: anyonw who has no time for seva)
 
 ## Ideas / Notes
 
