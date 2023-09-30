@@ -1,7 +1,6 @@
 ## Pains
 
 * Who are the deities (UX: newcomers?)
-* Membership (UX: ??)
 * events, festivals (UX: anyone to get updated)
 * Daily schedule / program (UX: what's happening now)
   *  Link to boar with current arati (UX: lil helper / database)
@@ -11,6 +10,7 @@
 * Books store (UX: buy books)
 * Service list (UX: anyone who comes for seva)
 * Donations list (UX: anyonw who has no time for seva)
+* Boutique?
 
 ## Ideas / Notes
 
