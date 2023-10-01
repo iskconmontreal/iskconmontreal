@@ -41,4 +41,4 @@ devotee slang | Meditation, bhakti practice
 * Give feeling of Prabhupad's dhoti, of mangalarati, of Krishna's fresh fragrance
 * Give hope to those in trouble
 * Engage veryone to either come, take service or donate
-* 
+* Feeling of festival & celebration
