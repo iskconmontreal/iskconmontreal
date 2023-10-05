@@ -42,3 +42,4 @@ devotee slang | Meditation, bhakti practice
 * Give hope to those in trouble
 * Engage veryone to either come, take service or donate
 * Feeling of festival & celebration
+* Give people idea that relationships with Krishna is the best thing in life
