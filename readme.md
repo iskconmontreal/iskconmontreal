@@ -43,3 +43,4 @@ devotee slang | Meditation, bhakti practice
 * Engage veryone to either come, take service or donate
 * Feeling of festival & celebration
 * Give people idea that relationships with Krishna is the best thing in life
+* Same visual impression as visiting the temple, ideally spiritual impression
