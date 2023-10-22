@@ -38,9 +38,9 @@ devotee slang | Meditation, bhakti practice
 
 ## Goals
 
-* Give feeling of Prabhupad's dhoti, of mangalarati, of Krishna's fresh fragrance
+* Give feeling of Prabhupad's dhoti, of Prana's mangalarati, of Krishna's fresh fragrance
 * Give hope to those in trouble
-* Engage veryone to either come, take service or donate
-* Feeling of festival & celebration
+* Engage everyone to either come, take service or donate
+* Feeling of spiritual festival & celebration
 * Give people idea that relationships with Krishna is the best thing in life
 * Same visual impression as visiting the temple, ideally spiritual impression
