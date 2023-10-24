@@ -44,3 +44,9 @@ devotee slang | Meditation, bhakti practice
 * Feeling of spiritual festival & celebration
 * Give people idea that relationships with Krishna is the best thing in life
 * Same visual impression as visiting the temple, ideally spiritual impression
+
+## Refs
+
+* https://www.lechocolat-alainducasse.com/en/
+* https://cgn.org/
+* https://onepagelove.com/work-co
