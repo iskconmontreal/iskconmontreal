@@ -1,18 +1,23 @@
 ## [ ] Design
-  * [ ] User roles
-  * [ ] Blocks, IA
+  * [ ] User roles, pains, goals, scenarios
+  * [x] Blocks, IA
   * [ ] Sketch: layout
-  * [ ] Style: variants
+    * [ ] Mobile
+    * [ ] Desktop
+  * [ ] Design style: variants
+  * [ ] UI kit
   * [ ] Final mockup
-        
-## [ ] Engine
+
+## [ ] Website
+  * [ ] Authentication system
   * [ ] Core templates
   * [ ] Core styles
   * [ ] Blocks
   * [ ] Login system
+  * [ ] Mobile version
 
 ## [ ] 1.0
 
 * [ ] Complete feature-set, workable blocks
 * [ ] Collect feedback
-* [ ] 
+* [ ]
