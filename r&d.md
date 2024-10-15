@@ -23,13 +23,15 @@
 
 * Header
   * Address, Phone
-  * facebook, instagram, youtube
+  * Facebook, instagram, youtube
   * Open or not
   * Ekadasi, kartik
   * Link to live
   * Main temple vibe impression/look
   * Welcoming intro
   * Language selector?
+  * Morning/day/night colors
+  * Moon phase
 
 * Temporary branding: Kartik, festival, Prabhupada disappearance, Prabhupada marathon etc
   * CTA: donate
