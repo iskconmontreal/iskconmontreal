@@ -37,8 +37,10 @@
 -> community: what are we doing together
 -> Mridanga classes
 
-3. Gupta: family from India, know Hare Krishna temples, want to find info about Ekadasi, worshiping events and donations.
+3. Gupta: family from India, with kids know Hare Krishna temples, want to find info about Ekadasi, worshiping events and donations.
 
+-> looking for yajna
+-> sunday program
 -> ekadasi, calendary, donate CTA
 -> indian gatherings
 -> where to find work
@@ -73,6 +75,11 @@
 
 -> museum, story of movement and Prabhupada
 
+10. Everyone else
+
+* Restaurant: anybody, they don't know about rest of building
+* Boutique: hippies, cool people, indians, regulars, whoever is into hindu stuff
+* Core: programs, boutique, govindas
 
 ## [ ] Blocks, IA
 
@@ -338,7 +345,10 @@ devotee slang | Meditation, bhakti practice
   * secondary scenarios / technical
 * Meaning
   * collect valuables pieces of info
-  * prioritize/organize/group into blocks according to personal scenarios
+  * consolidate into blocks according to personal scenarios
+  * prioritize by scenarios / users:
+    * points at implementation priority
+    * includes reducing non-essentials
   * test out scenarios
   * sprinkle inspiration bits / enthusiasm boosters
   * sprinkle trust factors
